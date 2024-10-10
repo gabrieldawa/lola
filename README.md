@@ -6,9 +6,9 @@ por Daniel Campos e Gabriel Dawa
   
 # Sistema de dados:
 ## Perfil do usuário
-  - Nome, Email, Senha informações opcionais
-  - Jogos baixados
-  - Estatísticas
+  - Nome, Email, Senha, informações opcionais 
+  - Jogos baixados 
+  - Estatísticas 
 ## Jogos
   - Nome, ID
   - Arte (imagem, trailer)
