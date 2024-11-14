@@ -29,9 +29,7 @@ por Daniel Campos e Gabriel Dawa
   - Fazer download de um jogo via torrent
   - Deixar um comentário/review em um jogo, mod ou usuário
   - Visualizar perfil de usuário
-  - Visualizar dados relevantes ao usuário
   - Visualizar uploads de um jogo
-  - Visualizar dados relevantes ao jogo
   - Visualizar comentários/reviews
   - Fazer upload de um mod
   - Editar upload de um mod
