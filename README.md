@@ -7,19 +7,17 @@ por Daniel Campos e Gabriel Dawa
 # Sistema de dados:
 ## Perfil do usuário
   - Nome, Email, Senha, informações opcionais 
-  - Jogos baixados 
   - Estatísticas 
 ## Jogos
   - Nome, ID
   - Arte (imagem, trailer)
   - Info (dev, editora, plataformas, requisitos de sistemas, )
-  - Estatísticas Gerais ( nota/10, downloads...)
+  - Estatísticas Gerais ( nota/10, preço, downloads...)
   - Download
 ## Mods
   - Nome, ID
-  - Arte (imagem, trailer)
-  - Info (dev, tipo de mod, descrição... )
-  - Estatísticas Gerais ( nota/10, downloads, preço ao longo do tempo... )
+  - Info (dev, jogo pai, descrição... )
+  - Estatísticas Gerais ( nota/10, downloads... )
   - Download
 ## Funções do sistema:
   - Cadastrar um usuário
@@ -27,10 +25,10 @@ por Daniel Campos e Gabriel Dawa
   - Fazer upload de um jogo
   - Editar upload de um jogo
   - Fazer download de um jogo via torrent
-  - Deixar um comentário/review em um jogo ou mod
+  - Deixar um comentário/review em um jogo ou mod ou usuario
   - Visualizar perfil de usuário
   - Visualizar uploads de um jogo
   - Visualizar comentários/reviews
   - Fazer upload de um mod
   - Editar upload de um mod
-  - Fazer download de um mo
+  - Fazer download de um mod
