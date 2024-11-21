@@ -13,7 +13,7 @@ por Daniel Campos e Gabriel Dawa
   - Nome, ID
   - Arte (imagem, trailer)
   - Info (dev, editora, plataformas, requisitos de sistemas, )
-  - Estatísticas Gerais ( nota/10, downloads, suporte a controle...)
+  - Estatísticas Gerais ( nota/10, downloads...)
   - Download
 ## Mods
   - Nome, ID
