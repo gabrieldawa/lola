@@ -27,12 +27,10 @@ por Daniel Campos e Gabriel Dawa
   - Fazer upload de um jogo
   - Editar upload de um jogo
   - Fazer download de um jogo via torrent
-  - Deixar um comentário/review em um jogo, mod ou usuário
+  - Deixar um comentário/review em um jogo ou mod
   - Visualizar perfil de usuário
   - Visualizar uploads de um jogo
   - Visualizar comentários/reviews
   - Fazer upload de um mod
   - Editar upload de um mod
-  - Fazer download de um mod
-  - Instalar mod
-  - Lançar jogo
+  - Fazer download de um mo
