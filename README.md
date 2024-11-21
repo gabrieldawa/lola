@@ -15,10 +15,13 @@ por Daniel Campos e Gabriel Dawa
   - Estatísticas Gerais ( nota/10, preço, downloads...)
   - Download
 ## Mods
-  - Nome, ID
-  - Info (dev, jogo pai, descrição... )
+  - Nome, ID, ID do jogo pai
+  - Info (dev, descrição... )
   - Estatísticas Gerais ( nota/10, downloads... )
   - Download
+## Review
+  - Título, ID, ID do jogo/mod/usuario 
+  - corpo da review, Nota
 ## Funções do sistema:
   - Cadastrar um usuário
   - Customizar um perfil
